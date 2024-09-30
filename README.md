@@ -85,6 +85,18 @@
 
 ---
 
+### ⭐ Star Geographic Distribution
+
+<p align="center">
+  <img src="https://example.com/path/to/star-geographic-distribution-image.png" alt="Star Geographic Distribution" width="80%">
+</p>
+
+<p align="center">
+  This chart shows the geographic distribution of stars on my repositories. Feel free to explore the repositories that interest you!
+</p>
+
+---
+
 ### 📈 Contribution Graph
 <p align="center">
     <a href="https://github.com/Kpavan63">
