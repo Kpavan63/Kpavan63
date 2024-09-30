@@ -71,9 +71,11 @@
 ---
 
 ### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kpavan63&theme=react-dark" alt="Pavan's Contribution Graph">
-</div>
+<p align="center">
+    <a href="https://github.com/Kpavan63">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kpavan63&bg_color=1a1b27&color=6fbae8&line=79c0ff&point=fab795&area=true&hide_border=true" alt="Kpavan63's Activity Graph" />
+    </a>
+</p>
 
 ---
 
