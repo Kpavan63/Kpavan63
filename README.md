@@ -1,95 +1,80 @@
-<h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hello Guys! I'm Pavan 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kpavan63&label=Profile%20views&color=0e75b6&style=flat" alt="kpavan63" />
-</p>
-
-<!-- About Me Section -->
-## About Me
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://avatars.githubusercontent.com/u/your-avatar-id" alt="Profile Pic" width="100" height="100">
-      </td>
-      <td>
-        <b>Hey there!</b><br>
-        I’m a Full Stack Developer with a passion for building scalable web applications. With expertise in both frontend and backend technologies, I create seamless user experiences. Currently diving deeper into cloud solutions like Google Cloud.<br>
-        - 🔭 I’m currently working on movie streaming apps<br>
-        - 🌱 I’m learning Google Cloud and advanced React<br>
-        - 💬 Ask me about Full Stack Development, APIs, and Python
-      </td>
-    </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=Kpavan63&label=Profile%20Views&color=0e75b6&style=plastic" alt="Kpavan63" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58a6ff&size=25&center=true&vCenter=true&lines=Web+Developer;Full+Stack+Developer;AI+Enthusiast;Always+Learning!" alt="Typing SVG">
 </div>
 
 ---
 
-## 🛠️ Skills
-
-### Frontend Development
-<p align="center">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-### Backend Development
-<p align="center">
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### APIs & Servers
-<p align="center">
-    <img src="https://img.shields.io/badge/RESTful%20APIs-%2332CD32.svg?&style=for-the-badge&logo=api" />
-    <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-%2300A4CC.svg?&style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-### Google Cloud & DevOps
-<p align="center">
-    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?&style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
+### About Me
+<div align="center">
+  <img src="https://github.com/Kpavan63" width="100px" style="border-radius: 10px;">
+  <p style="padding: 20px; font-size: 18px;">I'm Pavan, a passionate Web Developer with experience in building modern web applications. I love solving problems, learning new technologies, and improving my skills.</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats and Graphs
+### 🛠️ Skills
+<div align="center">
 
-| GitHub Stats | Lines of Code |
-| --- | --- |
-| ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpavan63&show_icons=true&theme=radical) | ![Lines of Code](https://img.shields.io/tokei/lines/github/kpavan63?color=green&label=Lines%20of%20Code) |
+#### Frontend
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+
+#### Backend
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
+<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
+
+#### APIs and Servers
+<img src="https://img.icons8.com/color/48/000000/api.png" alt="API"/>
+<img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL"/>
+<img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+
+#### Cloud and DevOps
+<img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
+
+</div>
 
 ---
 
-## 📈 Contribution Graph
+### 📊 GitHub Stats
 
-![Pavan's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kpavan63&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kpavan63&show_icons=true&theme=radical" alt="Pavan's GitHub Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kpavan63&theme=radical" alt="Pavan's Streak Stats">
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kpavan63&theme=monokai" alt="Pavan's GitHub Trophies" />
-</p>
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kpavan63&theme=react-dark" alt="Pavan's Contribution Graph">
+</div>
 
 ---
 
-## 📧 Let's Connect
+### 🏆 Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kpavan63&theme=radical&row=1&column=6" alt="Pavan's Trophies">
+</div>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/pavan-kumar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:pavan.kumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
+---
+
+### 🌟 Featured Projects
+<div align="center">
+  <p>Check out my <a href="https://github.com/Kpavan63?tab=repositories">top projects</a> on GitHub.</p>
+</div>
