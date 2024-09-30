@@ -5,11 +5,32 @@
 
 ---
 
-## 🚀 About Me:
-- 🔭 Working on **Web Development & Open Source Projects**
-- 🌱 Learning **Machine Learning** and **AI**
-- 💼 Passionate about **Coding** and solving real-world problems.
-- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/your-link)
+## 🚀 About Me
+
+<div align="center">
+    <table>
+        <tr>
+            <td style="border:none;">
+                <h3>🌱 Learning & Skills</h3>
+                <p>Currently diving deep into <strong>Machine Learning</strong> and <strong>AI</strong>. I'm passionate about coding, solving real-world problems, and exploring new technologies. 🚀</p>
+            </td>
+            <td style="border:none;">
+                <h3>💼 Career & Projects</h3>
+                <p>Working on several web development projects, contributing to open source, and creating impactful software solutions. 🔨</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border:none;">
+                <h3>👨‍💻 Interests</h3>
+                <p>Interested in AI, web development, and exploring cloud technologies. Love working with <strong>React</strong>, <strong>Node.js</strong>, and <strong>Python</strong>.</p>
+            </td>
+            <td style="border:none;">
+                <h3>📫 Get in Touch</h3>
+                <p>Feel free to reach out to me via <a href="mailto:youremail@example.com">email</a> or connect with me on <a href="https://linkedin.com/in/your-link">LinkedIn</a>.</p>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ---
 
