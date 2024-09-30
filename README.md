@@ -12,11 +12,12 @@
 
 ### About Me
 <div align="center">
-  <img src="https://github.com/Kpavan63" width="100px" style="border-radius: 10px;">
+  <img src="https://avatars.githubusercontent.com/Kpavan63" width="100px" style="border-radius: 10px;">
   <p style="padding: 20px; font-size: 18px;">I'm Pavan, a passionate Web Developer with experience in building modern web applications. I love solving problems, learning new technologies, and improving my skills.</p>
 </div>
 
 ---
+
 
 ### 🛠️ Skills
 <div align="center">
@@ -85,17 +86,6 @@
 
 ---
 
-### ⭐ Star Geographic Distribution
-
-<p align="center">
-  <img src="[https://example.com/path/to/star-geographic-distribution-image.png](https://img.freepik.com/free-vector/linear-india-map-infographic_23-2148869062.jpg?t=st=1727717636~exp=1727721236~hmac=4623fe2a7c19773449d478c9d8cc16926726b61a27419e6f8a783ee7e473a01a&w=740)" alt="Star Geographic Distribution" width="80%">
-</p>
-
-<p align="center">
-  This chart shows the geographic distribution of stars on my repositories. Feel free to explore the repositories that interest you!
-</p>
-
----
 
 ### 📈 Contribution Graph
 <p align="center">
