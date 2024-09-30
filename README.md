@@ -106,7 +106,30 @@
 ### 🌟 Featured Projects
 <div align="center">
   <p>Check out my <a href="https://github.com/Kpavan63?tab=repositories">top projects</a> on GitHub.</p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+
+    <div style="border: 1px solid #ddd; border-radius: 10px; margin: 10px; padding: 10px; width: 250px; text-align: center;">
+      <h4>Project One</h4>
+      <p>Brief description of project one.</p>
+      <a href="https://github.com/Kpavan63/project-one" target="_blank">🔗 View Project</a>
+    </div>
+
+    <div style="border: 1px solid #ddd; border-radius: 10px; margin: 10px; padding: 10px; width: 250px; text-align: center;">
+      <h4>Project Two</h4>
+      <p>Brief description of project two.</p>
+      <a href="https://github.com/Kpavan63/project-two" target="_blank">🔗 View Project</a>
+    </div>
+
+    <div style="border: 1px solid #ddd; border-radius: 10px; margin: 10px; padding: 10px; width: 250px; text-align: center;">
+      <h4>Project Three</h4>
+      <p>Brief description of project three.</p>
+      <a href="https://github.com/Kpavan63/project-three" target="_blank">🔗 View Project</a>
+    </div>
+
+  </div>
 </div>
+
+---
 
 ### 📈 Repository Performance Stats (Last 28 Days)
 <div align="center">
@@ -127,9 +150,17 @@
 
 ---
 
-### Let's Connect!
+### 🌟 Let's Connect!
 <p align="center">
-  <a href="https://github.com/Kpavan63" target="_blank">GitHub</a> | 
-  <a href="https://www.linkedin.com/in/pavan63/" target="_blank">LinkedIn</a> | 
-  <a href="https://twitter.com/pavan63" target="_blank">Twitter</a>
+  <a href="https://github.com/Kpavan63" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30" style="vertical-align: middle;"/> GitHub
+  </a> | 
+  <a href="https://www.linkedin.com/in/pavan63/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30" style="vertical-align: middle;"/> LinkedIn
+  </a> | 
+  <a href="https://twitter.com/pavan63" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" width="30" style="vertical-align: middle;"/> Twitter
+  </a>
 </p>
+
+---
