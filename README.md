@@ -90,3 +90,32 @@
 <div align="center">
   <p>Check out my <a href="https://github.com/Kpavan63?tab=repositories">top projects</a> on GitHub.</p>
 </div>
+
+### 📈 Repository Performance Stats (Last 28 Days)
+<div align="center">
+  <img src="https://github-contributions-api.deno.dev/Kpavan63.svg" alt="Kpavan's Contributions in Last 28 Days">
+</div>
+
+#### Key Stats:
+- **Stars Earned**: <img src="https://img.shields.io/github/stars/Kpavan63/your-repo-name?style=social" alt="Stars"/>
+- **Forks**: <img src="https://img.shields.io/github/forks/Kpavan63/your-repo-name?style=social" alt="Forks"/>
+- **Issues Opened**: <img src="https://img.shields.io/github/issues/Kpavan63/your-repo-name?style=flat" alt="Issues"/>
+- **Commits Made**: ![Commits](https://img.shields.io/github/commit-activity/m/Kpavan63/your-repo-name)
+
+> This stats summary updates dynamically based on my activity in the repository.
+
+---
+
+### 🚀 How to Use This Repo
+1. Star and fork this repo.
+2. Clone it and explore the code.
+3. Feel free to submit issues or suggestions!
+
+---
+
+### Let's Connect!
+- [GitHub](https://github.com/Kpavan63)
+- [LinkedIn](https://www.linkedin.com/in/pavan63/)
+- [Twitter](https://twitter.com/pavan63)
+
+---
