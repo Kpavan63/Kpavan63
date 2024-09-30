@@ -104,6 +104,7 @@
 ---
 
 ### 🌟 Featured Projects
+
 <div align="center">
   <p>Check out my top starred projects:</p>
 
@@ -111,29 +112,30 @@
     <tr>
       <td>
         <div style="border: 1px solid #ddd; border-radius: 10px; margin: 10px; padding: 10px; width: 250px; text-align: center;">
-          <h4><a href="https://github.com/Kpavan63/project-one" target="_blank">Project One</a></h4>
-          <p>A web application that helps users manage tasks effectively.</p>
-          <img src="https://img.shields.io/github/stars/Kpavan63/project-one?style=social" alt="Stars" />
+          <h4><a href="https://github.com/Kpavan63/your-top-starred-repo-1" target="_blank">Project One</a></h4>
+          <p>A brief description of Project One.</p>
+          <img src="https://img.shields.io/github/stars/Kpavan63/your-top-starred-repo-1?style=social" alt="Stars" />
         </div>
       </td>
       <td>
         <div style="border: 1px solid #ddd; border-radius: 10px; margin: 10px; padding: 10px; width: 250px; text-align: center;">
-          <h4><a href="https://github.com/Kpavan63/project-two" target="_blank">Project Two</a></h4>
-          <p>A mobile app for tracking personal expenses and budgets.</p>
-          <img src="https://img.shields.io/github/stars/Kpavan63/project-two?style=social" alt="Stars" />
+          <h4><a href="https://github.com/Kpavan63/your-top-starred-repo-2" target="_blank">Project Two</a></h4>
+          <p>A brief description of Project Two.</p>
+          <img src="https://img.shields.io/github/stars/Kpavan63/your-top-starred-repo-2?style=social" alt="Stars" />
         </div>
       </td>
       <td>
         <div style="border: 1px solid #ddd; border-radius: 10px; margin: 10px; padding: 10px; width: 250px; text-align: center;">
-          <h4><a href="https://github.com/Kpavan63/project-three" target="_blank">Project Three</a></h4>
-          <p>An API service for providing weather information.</p>
-          <img src="https://img.shields.io/github/stars/Kpavan63/project-three?style=social" alt="Stars" />
+          <h4><a href="https://github.com/Kpavan63/your-top-starred-repo-3" target="_blank">Project Three</a></h4>
+          <p>A brief description of Project Three.</p>
+          <img src="https://img.shields.io/github/stars/Kpavan63/your-top-starred-repo-3?style=social" alt="Stars" />
         </div>
       </td>
     </tr>
   </table>
 </div>
 
+---
 
 
 ### 📈 Repository Performance Stats (Last 28 Days)
@@ -158,13 +160,16 @@
 ### 🌟 Let's Connect!
 <p align="center">
   <a href="https://github.com/Kpavan63" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30" style="vertical-align: middle;"/> GitHub
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30" style="vertical-align: middle;"/> 
+    GitHub
   </a> | 
   <a href="https://www.linkedin.com/in/pavan63/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30" style="vertical-align: middle;"/> LinkedIn
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30" style="vertical-align: middle;"/> 
+    LinkedIn
   </a> | 
   <a href="https://twitter.com/pavan63" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" width="30" style="vertical-align: middle;"/> Twitter
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" width="30" style="vertical-align: middle;"/> 
+    Twitter
   </a>
 </p>
 
