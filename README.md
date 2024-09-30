@@ -92,17 +92,35 @@
 </div>
 
 ### 📈 Repository Performance Stats (Last 28 Days)
-<div align="center">
-  <img src="https://github-contributions-api.deno.dev/Kpavan63.svg" alt="Kpavan's Contributions in Last 28 Days">
+
+<div align="center" style="position: relative; display: inline-block;">
+  <div style="position: relative; width: 100%; height: 400px; overflow: hidden;">
+    <img src="https://github-contributions-api.deno.dev/Kpavan63.svg" alt="Kpavan's Contributions in Last 28 Days" style="animation: fadeIn 1s;"/>
+    <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(255, 255, 255, 0.8); animation: overlay 1s;"></div>
+  </div>
+  <h3 style="margin-top: 10px;">📊 Performance Overview</h3>
+  <p style="font-size: 14px;">This stats summary updates dynamically based on my activity in the repository.</p>
 </div>
 
-#### Key Stats:
-- **Stars Earned**: <img src="https://img.shields.io/github/stars/Kpavan63/your-repo-name?style=social" alt="Stars"/>
-- **Forks**: <img src="https://img.shields.io/github/forks/Kpavan63/your-repo-name?style=social" alt="Forks"/>
-- **Issues Opened**: <img src="https://img.shields.io/github/issues/Kpavan63/your-repo-name?style=flat" alt="Issues"/>
-- **Commits Made**: ![Commits](https://img.shields.io/github/commit-activity/m/Kpavan63/your-repo-name)
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
 
-> This stats summary updates dynamically based on my activity in the repository.
+  @keyframes overlay {
+    from { background-color: rgba(255, 255, 255, 0); }
+    to { background-color: rgba(255, 255, 255, 0.8); }
+  }
+</style>
+
+#### Key Stats:
+<div align="center">
+  <img src="https://img.shields.io/github/stars/Kpavan63/your-repo-name?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/Kpavan63/your-repo-name?style=social" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/Kpavan63/your-repo-name?style=flat" alt="Issues" />
+  <img src="https://img.shields.io/github/commit-activity/m/Kpavan63/your-repo-name" alt="Commits" />
+</div>
 
 ---
 
