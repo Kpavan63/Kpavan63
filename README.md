@@ -3,6 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6FBAE8&width=435&lines=Web+Developer;Open+Source+Contributor;Building+Awesome+Projects" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kpavan63&label=Profile%20Views&color=0e75b6&style=flat" alt="Kpavan63" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -82,8 +86,8 @@
 ## 📈 Lines of Code
 
 <p align="center">
-    <a href="https://github.com/Kpavan63">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kpavan63&theme=radical" alt="Lines of Code" />
+    <a href="https://wakatime.com/@Kpavan63">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kpavan63&layout=compact&theme=radical" alt="Lines of Code" />
     </a>
 </p>
 
