@@ -109,30 +109,27 @@
 </div>
 
 ### 📈 Repository Performance Stats (Last 28 Days)
-
 <div align="center">
   <div style="position: relative; width: 100%; height: 400px; overflow: hidden;">
     <img src="https://github-contributions-api.deno.dev/Kpavan63.svg" alt="Kpavan's Contributions in Last 28 Days" />
     <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(255, 255, 255, 0.8); opacity: 0.8;"></div>
   </div>
-  <h3>📊 Performance Overview</h3>
+  <h3 style="margin-top: 10px;">📊 Performance Overview</h3>
   <p>This stats summary updates dynamically based on my activity in the repository.</p>
 </div>
 
 ---
 
 ### 🚀 How to Use This Repo
-1. Star and fork this repo.
-2. Clone it and explore the code.
-3. Feel free to submit issues or suggestions!
+1. ⭐ Star and fork this repo.
+2. 📥 Clone it and explore the code.
+3. 🛠️ Feel free to submit issues or suggestions!
 
 ---
 
 ### Let's Connect!
-- [GitHub](https://github.com/Kpavan63)
-- [LinkedIn](https://www.linkedin.com/in/pavan63/)
-- [Twitter](https://twitter.com/pavan63)
-
----
-
-
+<p align="center">
+  <a href="https://github.com/Kpavan63" target="_blank">GitHub</a> | 
+  <a href="https://www.linkedin.com/in/pavan63/" target="_blank">LinkedIn</a> | 
+  <a href="https://twitter.com/pavan63" target="_blank">Twitter</a>
+</p>
