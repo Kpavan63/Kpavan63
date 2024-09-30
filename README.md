@@ -48,6 +48,23 @@
 
 ---
 
+<details>
+  <summary><h3>Languages</h3></summary>
+  <p align="center">
+    <a href="https://github.com/Kpavan63/">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpavan63&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="Kpavan63 :: overall Top Langs ">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/Kpavan63/">
+      <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kpavan63&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="Kpavan63 :: Top Langs by repo">
+      <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kpavan63&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="Kpavan63 :: Top Langs by commit">
+    </a>
+  </p>
+</details>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
