@@ -163,7 +163,7 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30" style="vertical-align: middle;"/> 
     GitHub
   </a> | 
-  <a href="https://www.linkedin.com/in/pavan63/" target="_blank">
+  <a href="https://www.linkedin.com/in/KpavanKalyan/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30" style="vertical-align: middle;"/> 
     LinkedIn
   </a> | 
