@@ -88,7 +88,7 @@
 ### ⭐ Star Geographic Distribution
 
 <p align="center">
-  <img src="https://example.com/path/to/star-geographic-distribution-image.png" alt="Star Geographic Distribution" width="80%">
+  <img src="[https://example.com/path/to/star-geographic-distribution-image.png](https://img.freepik.com/free-vector/linear-india-map-infographic_23-2148869062.jpg?t=st=1727717636~exp=1727721236~hmac=4623fe2a7c19773449d478c9d8cc16926726b61a27419e6f8a783ee7e473a01a&w=740)" alt="Star Geographic Distribution" width="80%">
 </p>
 
 <p align="center">
