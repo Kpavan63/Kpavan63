@@ -60,6 +60,16 @@
 
 ---
 
+## 📊 Pull Requests & Commits
+
+<p align="center">
+    <a href="https://github.com/Kpavan63">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kpavan63&theme=react-dark&area=true&hide_border=true&custom_title=Pull%20Requests%20and%20Commits" />
+    </a>
+</p>
+
+---
+
 ### 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kpavan63&theme=react-dark" alt="Pavan's Contribution Graph">
