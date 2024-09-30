@@ -105,31 +105,30 @@
 
 ### 🌟 Featured Projects
 <div align="center">
-  <p>Check out my <a href="https://github.com/Kpavan63?tab=repositories">top projects</a> on GitHub.</p>
+  <p>Check out my top starred projects:</p>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
     <div style="border: 1px solid #ddd; border-radius: 10px; margin: 10px; padding: 10px; width: 250px; text-align: center;">
-      <h4>Project One</h4>
-      <p>Brief description of project one.</p>
-      <a href="https://github.com/Kpavan63/project-one" target="_blank">🔗 View Project</a>
+      <h4><a href="https://github.com/Kpavan63/your-top-starred-repo-1" target="_blank">Top Starred Repo 1</a></h4>
+      <p>Brief description of your top starred repo 1.</p>
+      <img src="https://img.shields.io/github/stars/Kpavan63/your-top-starred-repo-1?style=social" alt="Stars" />
     </div>
 
     <div style="border: 1px solid #ddd; border-radius: 10px; margin: 10px; padding: 10px; width: 250px; text-align: center;">
-      <h4>Project Two</h4>
-      <p>Brief description of project two.</p>
-      <a href="https://github.com/Kpavan63/project-two" target="_blank">🔗 View Project</a>
+      <h4><a href="https://github.com/Kpavan63/your-top-starred-repo-2" target="_blank">Top Starred Repo 2</a></h4>
+      <p>Brief description of your top starred repo 2.</p>
+      <img src="https://img.shields.io/github/stars/Kpavan63/your-top-starred-repo-2?style=social" alt="Stars" />
     </div>
 
     <div style="border: 1px solid #ddd; border-radius: 10px; margin: 10px; padding: 10px; width: 250px; text-align: center;">
-      <h4>Project Three</h4>
-      <p>Brief description of project three.</p>
-      <a href="https://github.com/Kpavan63/project-three" target="_blank">🔗 View Project</a>
+      <h4><a href="https://github.com/Kpavan63/your-top-starred-repo-3" target="_blank">Top Starred Repo 3</a></h4>
+      <p>Brief description of your top starred repo 3.</p>
+      <img src="https://img.shields.io/github/stars/Kpavan63/your-top-starred-repo-3?style=social" alt="Stars" />
     </div>
 
   </div>
 </div>
 
----
 
 ### 📈 Repository Performance Stats (Last 28 Days)
 <div align="center">
