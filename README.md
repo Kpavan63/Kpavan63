@@ -19,38 +19,36 @@
 ---
 
 
-# 🛠️ Tech Stack
-
+# 🛠️ Skills
 <div align="center">
 
-## 🚀 Frontend Development  
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>  
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>  
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>  
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>  
-<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>  
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" alt="JavaScript Libraries"/>
+## 🚀 Frontend
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-javascript-library-react-redux-and-angular-logo-color-tal-revivo.png" alt="JS Libraries"/>
 
-## ⚙️ Backend Development  
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>  
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>  
-<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>  
-<img src="https://img.icons8.com/color/48/000000/database.png" alt="SQL"/>  
+## 🖥️ Backend
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+<img src="https://img.icons8.com/ios-filled/48/000000/api-settings.png" alt="APIs"/>
 
-## 🌐 APIs & Database Services  
-<img src="https://img.icons8.com/color/48/000000/api.png" alt="API"/>  
-<img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL"/>  
-<img src="https://img.icons8.com/fluency/48/000000/google-sheets.png" alt="SteinHQ"/>  
-<img src="https://img.icons8.com/fluency/48/000000/microsoft-excel.png" alt="SheetDB"/>  
+## 📡 APIs & Databases
+<img src="https://img.icons8.com/color/48/000000/api.png" alt="API"/>
+<img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL"/>
+<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-google-sheets-a-web-based-application-used-to-create-edit-and-share-spreadsheets-logo-filled-tal-revivo.png" alt="SteinHQ"/>
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-database-web-hosting-flaticons-lineal-color-flat-icons.png" alt="SheetDB"/>
 
-## ☁️ Cloud & Deployment  
-<img src="https://img.icons8.com/color/48/000000/render.png" alt="Render"/>  
-<img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel"/>  
-<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>  
-<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>  
-<img src="https://img.icons8.com/color/48/000000/railway.png" alt="Railway.app"/>  
+## ☁️ Cloud & Deployment
+<img src="https://img.icons8.com/color/48/000000/render.png" alt="Render"/>
+<img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-railway-app-a-hosting-platform-for-developers-cloud-shadow-tal-revivo.png" alt="Railway.app"/>
 
 </div>
+
 
 
 ---
