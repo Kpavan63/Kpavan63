@@ -21,35 +21,39 @@
 
 # 🛠️ Skills
 <div align="center">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
 
 ## 🚀 Frontend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="JS Libraries"/>
+<i class="fa-brands fa-html5" style="font-size: 48px; color: #E34F26;"></i>
+<i class="fa-brands fa-css3-alt" style="font-size: 48px; color: #1572B6;"></i>
+<i class="fa-brands fa-js" style="font-size: 48px; color: #F7DF1E;"></i>
+<i class="fa-brands fa-angular" style="font-size: 48px; color: #DD0031;"></i>
+<i class="fa-brands fa-react" style="font-size: 48px; color: #61DAFB;"></i>
+<i class="fa-solid fa-laptop-code" style="font-size: 48px; color: #ff9800;"></i> <!-- JS Libraries -->
 
 ## 🖥️ Backend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL"/>
+<i class="fa-brands fa-python" style="font-size: 48px; color: #3776AB;"></i>
+<i class="fa-brands fa-node-js" style="font-size: 48px; color: #339933;"></i>
+<i class="fa-solid fa-database" style="font-size: 48px; color: #ff9800;"></i> <!-- SQL -->
+<i class="fa-solid fa-network-wired" style="font-size: 48px; color: #6C757D;"></i> <!-- API -->
+<i class="fa-solid fa-server" style="font-size: 48px; color: #007bff;"></i> <!-- Backend -->
 
 ## 📡 APIs & Databases  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL Database"/>
-<img src="https://raw.githubusercontent.com/steinhq/brand/main/logo/stein_gray.svg" width="48" height="48" alt="SteinHQ"/>
-<img src="https://www.sheetdb.io/static/img/sheetdb-logo-dark.png" width="100" height="48" alt="SheetDB"/>
-<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/database.svg" width="48" height="48" style="color:#ff9800;" alt="Database"/>
+<i class="fa-solid fa-database" style="font-size: 48px; color: #ff9800;"></i> SQL  
+<i class="fa-solid fa-table" style="font-size: 48px; color: #4CAF50;"></i> SteinHQ  
+<i class="fa-solid fa-sheet-plastic" style="font-size: 48px; color: #F7DF1E;"></i> SheetDB  
+<i class="fa-solid fa-code-branch" style="font-size: 48px; color: #6C757D;"></i> GraphQL  
 
 ## ☁️ Cloud & Deployment  
-<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/cloud.svg" width="48" height="48" style="color:#007bff;" alt="Cloud"/>
-<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/cloud-upload.svg" width="48" height="48" style="color:#4caf50;" alt="Cloud Upload"/>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAZ0lEQVR4AWMYwkBICI/krCm45eQ/ftfCKbnp//9FuOTsfv3//98Fh+TB/0BwELtc8H8wiMMqeRUieRWbXPF/KCjGIvkYJvkYU27KfzjoxAi4jwjJ7/KY/keA1ahy3E2dSKCJm2FEAQAD1l2xzdeQ1AAAAABJRU5ErkJggg==" width="48" height="48" alt="Vercel"/>
-<img src="https://railway.app/brand/logo-light.svg" width="100" height="48" alt="Railway.app"/>
-<img src="https://raw.githubusercontent.com/render-examples/flask-hello-world/main/render-logo.png" width="100" height="48" alt="Render"/>
+<i class="fa-solid fa-cloud" style="font-size: 48px; color: #007bff;"></i> Cloud  
+<i class="fa-solid fa-cloud-arrow-up" style="font-size: 48px; color: #4caf50;"></i> Deployment  
+<i class="fa-solid fa-rocket" style="font-size: 48px; color: #E34F26;"></i> Vercel  
+<i class="fa-solid fa-train" style="font-size: 48px; color: #339933;"></i> Railway.app  
+<i class="fa-solid fa-server" style="font-size: 48px; color: #6C757D;"></i> Render  
 
 </div>
+
 
 
 
