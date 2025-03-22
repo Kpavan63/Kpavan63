@@ -1,239 +1,183 @@
-<h1 align="center">Hello Guys! I'm Pavan 👋</h1>
-
+<!-- Dynamic Designer Header -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kpavan63&label=Profile%20Views&color=0e75b6&style=plastic" alt="Kpavan63" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=250&section=header&text=Creative%20Developer&fontSize=70&fontColor=fff&desc=Design%20%2B%20Code%20%3D%20Magic&descSize=20&descAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58a6ff&size=25&center=true&vCenter=true&lines=Web+Developer;Full+Stack+Developer;AI+Enthusiast;Always+Learning!" alt="Typing SVG">
-</div>
-
----
-
-### About Me
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/Kpavan63" width="100px" style="border-radius: 10px;">
-  <p style="padding: 20px; font-size: 18px;">I'm Pavan, a passionate Web Developer with experience in building modern web applications. I love solving problems, learning new technologies, and improving my skills.</p>
-</div>
-
----
-
-
-### 🛠️ Skills
-<div align="center">
-
-#### Frontend
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-
-#### Backend
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
-
-#### APIs and Servers
-<img src="https://img.icons8.com/color/48/000000/api.png" alt="API"/>
-<img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL"/>
-<img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku"/>
-<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
-
-#### Cloud and DevOps
-<img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud"/>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
-
-</div>
-
----
-
-### 🛠️ Languages
-
-<p align="center">
-  <a href="https://github.com/Kpavan63/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpavan63&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="Kpavan63 :: Overall Top Languages">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Kpavan63/">
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kpavan63&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="Kpavan63 :: Top Languages by Repo">
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kpavan63&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="Kpavan63 :: Top Languages by Commit">
-  </a>
-</p>
-
-<h3 align="center">GitHub Statistics</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kpavan63&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kpavan63&theme=github_dark&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kpavan63&show_icons=true&theme=radical" alt="Pavan's GitHub Stats">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kpavan63&theme=radical" alt="Pavan's Streak Stats">
-</div>
-
----
-
-## 📊 Pull Requests & Commits
-
-<p align="center">
-    <a href="https://github.com/Kpavan63">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kpavan63&theme=react-dark&area=true&hide_border=true&custom_title=Pull%20Requests%20and%20Commits" />
-    </a>
-</p>
-
----
-
-
-### 📈 Contribution Graph
-<p align="center">
-    <a href="https://github.com/Kpavan63">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kpavan63&bg_color=1a1b27&color=6fbae8&line=79c0ff&point=fab795&area=true&hide_border=true" alt="Kpavan63's Activity Graph" />
-    </a>
-</p>
-
----
-
-### 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kpavan63&theme=radical&row=1&column=6" alt="Pavan's Trophies">
-</div>
-
-
-<h3 align="center">Current Focus</h3>
+<!-- Animated Welcome Section -->
 <div align="center">
   <table>
     <tr>
-      <td>🔭 Working on:</td>
-      <td><strong>AI-Powered Web Applications</strong></td>
-    </tr>
-    <tr>
-      <td>🌱 Learning:</td>
-      <td><strong>Advanced Machine Learning & Cloud Architecture</strong></td>
-    </tr>
-    <tr>
-      <td>👯 Looking to collaborate on:</td>
-      <td><strong>Open Source Projects</strong></td>
-    </tr>
-    <tr>
-      <td>💬 Ask me about:</td>
-      <td><strong>Web Development, AI, Cloud Technologies</strong></td>
+      <td width="50%">
+        <h1 align="center">
+          Hi there, I'm Pavan 
+          <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+        </h1>
+        <p align="center">
+          <a href="https://github.com/Kpavan63">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Creative+Full+Stack+Developer;UX/UI+Design+Enthusiast;Design+System+Architect" alt="Typing SVG">
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <img align="right" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="100%">
+      </td>
     </tr>
   </table>
 </div>
 
-
-<h3 align="center">💻 Weekly Coding Activity</h3>
-<div align="center">
-  <table width="70%" style="margin: 20px auto; border-collapse: collapse;">
-    <thead>
-      <tr>
-        <th align="left" width="40%">Language</th>
-        <th align="left" width="45%">Time Spent</th>
-        <th align="right" width="15%">Hours</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!-- JavaScript -->
-      <tr>
-        <td>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        </td>
-        <td>
-          <div style="background-color: #2f80ed20; border-radius: 5px; padding: 2px;">
-            <div style="background-color: #F7DF1E; width: 70%; height: 20px; border-radius: 5px;">
-              <span style="color: #24292e; margin-left: 8px; font-weight: bold;">70%</span>
-            </div>
-          </div>
-        </td>
-        <td align="right"><code>28.0h</code></td>
-      </tr>
-      <!-- Python -->
-      <tr>
-        <td>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        </td>
-        <td>
-          <div style="background-color: #2f80ed20; border-radius: 5px; padding: 2px;">
-            <div style="background-color: #3776AB; width: 50%; height: 20px; border-radius: 5px;">
-              <span style="color: white; margin-left: 8px; font-weight: bold;">50%</span>
-            </div>
-          </div>
-        </td>
-        <td align="right"><code>20.0h</code></td>
-      </tr>
-      <!-- HTML/CSS -->
-      <tr>
-        <td>
-          <img src="https://img.shields.io/badge/Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
-        </td>
-        <td>
-          <div style="background-color: #2f80ed20; border-radius: 5px; padding: 2px;">
-            <div style="background-color: #E34F26; width: 35%; height: 20px; border-radius: 5px;">
-              <span style="color: white; margin-left: 8px; font-weight: bold;">35%</span>
-            </div>
-          </div>
-        </td>
-        <td align="right"><code>14.0h</code></td>
-      </tr>
-      <!-- Other -->
-      <tr>
-        <td>
-          <img src="https://img.shields.io/badge/Other-gray?style=for-the-badge" alt="Other" />
-        </td>
-        <td>
-          <div style="background-color: #2f80ed20; border-radius: 5px; padding: 2px;">
-            <div style="background-color: #808080; width: 25%; height: 20px; border-radius: 5px;">
-              <span style="color: white; margin-left: 8px; font-weight: bold;">25%</span>
-            </div>
-          </div>
-        </td>
-        <td align="right"><code>10.0h</code></td>
-      </tr>
-    </tbody>
+<!-- Professional Status Section -->
+<div align="center" style="margin: 20px 0;">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00d26d?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Last%20Updated-2025--03--22%2005:04:16%20UTC-4B83E4?style=for-the-badge&logo=clockify&logoColor=white" alt="Updated"/>
+      </td>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=Kpavan63&style=for-the-badge&color=4B83E4" alt="Profile Views"/>
+      </td>
+    </tr>
   </table>
----
-
-### 📈 Repository Performance Stats (Last 28 Days)
-<div align="center">
-  <div style="position: relative; width: 100%; height: 400px; overflow: hidden;">
-    <img src="https://github-contributions-api.deno.dev/Kpavan63.svg" alt="Kpavan's Contributions in Last 28 Days" />
-    <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(255, 255, 255, 0.8); opacity: 0.8;"></div>
-  </div>
-  <h3 style="margin-top: 10px;">📊 Performance Overview</h3>
-  <p>This stats summary updates dynamically based on my activity in the repository.</p>
 </div>
 
----
+<!-- Designer's Tools & Skills -->
+<h2 align="center">🎨 Design Arsenal</h2>
+<div align="center" style="margin: 20px 0;">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Design Tools</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+          <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white" alt="Adobe XD"/>
+          <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop"/>
+          <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white" alt="Sketch"/>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Design Systems</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"/>
+          <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+          <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🚀 How to Use This Repo
-1. ⭐ Star and fork this repo.
-2. 📥 Clone it and explore the code.
-3. 🛠️ Feel free to submit issues or suggestions!
+<!-- Development Skills with Modern Design -->
+<h2 align="center">💻 Development Expertise</h2>
+<div align="center" style="margin: 20px 0;">
+  <table>
+    <tr>
+      <td colspan="2">
+        <h3 align="center">Frontend Mastery</h3>
+        <div align="center" style="margin: 10px 0;">
+          <!-- Frontend Technologies -->
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,nuxt" alt="Frontend Skills"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Backend & Architecture</h3>
+        <div align="center" style="margin: 10px 0;">
+          <!-- Backend Technologies -->
+          <img src="https://skillicons.dev/icons?i=nodejs,python,django,graphql,postgres,mongodb" alt="Backend Skills"/>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">DevOps & Cloud</h3>
+        <div align="center" style="margin: 10px 0;">
+          <!-- DevOps Technologies -->
+          <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,vercel" alt="DevOps Skills"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<!-- Creative Stats Section -->
+<h2 align="center">📊 Creative Performance</h2>
+<div align="center" style="margin: 20px 0;">
+  <!-- Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kpavan63&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=58a6ff&title_color=58a6ff&text_color=a1a1aa" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kpavan63&theme=tokyonight&hide_border=true&background=1a1b27&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" alt="Streak Stats"/>
+</div>
 
-### 🌟 Let's Connect!
-<p align="center">
-  <a href="https://github.com/Kpavan63" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30" style="vertical-align: middle;"/> 
-    GitHub
-  </a> | 
-  <a href="https://www.linkedin.com/in/KpavanKalyan/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30" style="vertical-align: middle;"/> 
-    LinkedIn
-  </a> | 
-  <a href="https://twitter.com/pavan63" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" width="30" style="vertical-align: middle;"/> 
-    Twitter
+<!-- Design Process Timeline -->
+<h2 align="center">🎯 Design Process</h2>
+<div align="center" style="margin: 20px 0;">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/design--v1.png" alt="Design"/>
+        <br>Research & Discovery
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/prototype.png" alt="Prototype"/>
+        <br>Wireframing & Prototyping
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Development"/>
+        <br>Development & Testing
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/launched-rocket--v1.png" alt="Launch"/>
+        <br>Launch & Iterate
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Current Projects -->
+<h2 align="center">🚀 Active Projects</h2>
+<div align="center" style="margin: 20px 0;">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Design System</h3>
+        <div style="background: #1a1b27; padding: 15px; border-radius: 10px;">
+          <div style="background: linear-gradient(90deg, #58a6ff 85%, transparent 15%); height: 20px; border-radius: 5px;">
+            <span style="color: white; font-size: 12px; padding-left: 5px;">85% Complete</span>
+          </div>
+        </div>
+      </td>
+      <td align="center">
+        <h3>UI Components</h3>
+        <div style="background: #1a1b27; padding: 15px; border-radius: 10px;">
+          <div style="background: linear-gradient(90deg, #58a6ff 70%, transparent 30%); height: 20px; border-radius: 5px;">
+            <span style="color: white; font-size: 12px; padding-left: 5px;">70% Complete</span>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Contact Section -->
+<h2 align="center">📫 Let's Connect</h2>
+<div align="center" style="margin: 20px 0;">
+  <a href="https://github.com/Kpavan63" style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+  <a href="https://linkedin.com/in/KpavanKalyan" style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dribbble.com/Kpavan63" style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+  </a>
+  <a href="https://behance.net/Kpavan63" style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+</div>
 
----
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=100&section=footer" width="100%"/>
+  <br>
+  <code>Updated: 2025-03-22 05:04:16 UTC | Crafted with ❤️ by @Kpavan63</code>
+</div>
