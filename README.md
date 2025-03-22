@@ -61,11 +61,6 @@
 
 ### 📊 GitHub Analytics
 
-JavaScript   █████████░░░░░   70.00%
-Python       ████░░░░░░░░░   35.00%
-HTML/CSS     ███░░░░░░░░░░   25.00%
-PHP          ██░░░░░░░░░░░   20.00%
-Other        █░░░░░░░░░░░░   10.00%
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpavan63&langs_count=6&theme=github_dark&layout=compact&hide_border=true" alt="Most Used Languages" />
