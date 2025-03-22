@@ -40,14 +40,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL Database"/>
 <img src="https://raw.githubusercontent.com/steinhq/brand/main/logo/stein_gray.svg" width="48" height="48" alt="SteinHQ"/>
 <img src="https://www.sheetdb.io/static/img/sheetdb-logo-dark.png" width="100" height="48" alt="SheetDB"/>
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/database.svg" width="48" height="48" style="color:#ff9800;" alt="Database"/>
 
 ## ☁️ Cloud & Deployment  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Cloud_icon.svg" width="48" height="48" alt="Cloud"/>
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/cloud.svg" width="48" height="48" style="color:#007bff;" alt="Cloud"/>
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/cloud-upload.svg" width="48" height="48" style="color:#4caf50;" alt="Cloud Upload"/>
 <img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/vercel.svg" width="48" height="48" alt="Vercel"/>
 <img src="https://railway.app/brand/logo-light.svg" width="100" height="48" alt="Railway.app"/>
 <img src="https://raw.githubusercontent.com/render-examples/flask-hello-world/main/render-logo.png" width="100" height="48" alt="Render"/>
 
 </div>
+
 
 
 ---
