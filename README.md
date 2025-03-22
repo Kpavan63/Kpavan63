@@ -117,6 +117,23 @@
 
 ---
 
+### 🌟 Top Companies to Hire
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google" style="transition: transform 0.3s;"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft" style="transition: transform 0.3s;"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon.png" alt="Amazon" style="transition: transform 0.3s;"/>
+  <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" style="transition: transform 0.3s;"/>
+  <img src="https://img.icons8.com/color/48/000000/apple-logo.png" alt="Apple" style="transition: transform 0.3s;"/>
+</p>
+
+<style>
+  p img:hover {
+    transform: scale(1.2);
+  }
+</style>
+
+---
+
 ### 📈 Repository Performance Stats (Last 28 Days)
 <div align="center">
   <div style="position: relative; width: 100%; height: 400px; overflow: hidden;">
