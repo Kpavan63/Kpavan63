@@ -19,33 +19,39 @@
 ---
 
 
-### 🛠️ Skills
+# 🛠️ Tech Stack
+
 <div align="center">
 
-#### Frontend
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+## 🚀 Frontend Development  
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>  
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>  
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>  
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>  
+<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>  
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" alt="JavaScript Libraries"/>
 
-#### Backend
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
+## ⚙️ Backend Development  
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>  
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>  
+<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>  
+<img src="https://img.icons8.com/color/48/000000/database.png" alt="SQL"/>  
 
-#### APIs and Servers
-<img src="https://img.icons8.com/color/48/000000/api.png" alt="API"/>
-<img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL"/>
-<img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku"/>
-<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+## 🌐 APIs & Database Services  
+<img src="https://img.icons8.com/color/48/000000/api.png" alt="API"/>  
+<img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL"/>  
+<img src="https://img.icons8.com/fluency/48/000000/google-sheets.png" alt="SteinHQ"/>  
+<img src="https://img.icons8.com/fluency/48/000000/microsoft-excel.png" alt="SheetDB"/>  
 
-#### Cloud and DevOps
-<img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud"/>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
+## ☁️ Cloud & Deployment  
+<img src="https://img.icons8.com/color/48/000000/render.png" alt="Render"/>  
+<img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel"/>  
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>  
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>  
+<img src="https://img.icons8.com/color/48/000000/railway.png" alt="Railway.app"/>  
 
 </div>
+
 
 ---
 
