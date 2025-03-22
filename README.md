@@ -37,15 +37,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL"/>
 
 ## 📡 APIs & Databases  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Database-mysql.svg" width="48" height="48" alt="SQL Database"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Forms_2020_Logo.svg" width="48" height="48" alt="SteinHQ"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Google_Sheets_2020_Logo.svg" width="48" height="48" alt="SheetDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL Database"/>
+<img src="https://raw.githubusercontent.com/steinhq/brand/main/logo/stein_gray.svg" width="48" height="48" alt="SteinHQ"/>
+<img src="https://www.sheetdb.io/static/img/sheetdb-logo-dark.png" width="100" height="48" alt="SheetDB"/>
 
 ## ☁️ Cloud & Deployment  
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Cloud_computing_icon.svg" width="48" height="48" alt="Cloud"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Vercel_logo_black.svg" width="48" height="48" alt="Vercel" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Railway_logo.svg" width="48" height="48" alt="Railway.app"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Logo-cloud-render.svg" width="48" height="48" alt="Render"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Cloud_icon.svg" width="48" height="48" alt="Cloud"/>
+<img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/vercel.svg" width="48" height="48" alt="Vercel"/>
+<img src="https://railway.app/brand/logo-light.svg" width="100" height="48" alt="Railway.app"/>
+<img src="https://raw.githubusercontent.com/render-examples/flask-hello-world/main/render-logo.png" width="100" height="48" alt="Render"/>
 
 </div>
 
