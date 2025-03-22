@@ -45,7 +45,7 @@
 ## ☁️ Cloud & Deployment  
 <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/cloud.svg" width="48" height="48" style="color:#007bff;" alt="Cloud"/>
 <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/cloud-upload.svg" width="48" height="48" style="color:#4caf50;" alt="Cloud Upload"/>
-<img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/vercel.svg" width="48" height="48" alt="Vercel"/>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAZ0lEQVR4AWMYwkBICI/krCm45eQ/ftfCKbnp//9FuOTsfv3//98Fh+TB/0BwELtc8H8wiMMqeRUieRWbXPF/KCjGIvkYJvkYU27KfzjoxAi4jwjJ7/KY/keA1ahy3E2dSKCJm2FEAQAD1l2xzdeQ1AAAAABJRU5ErkJggg==" width="48" height="48" alt="Vercel"/>
 <img src="https://railway.app/brand/logo-light.svg" width="100" height="48" alt="Railway.app"/>
 <img src="https://raw.githubusercontent.com/render-examples/flask-hello-world/main/render-logo.png" width="100" height="48" alt="Render"/>
 
