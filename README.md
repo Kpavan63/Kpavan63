@@ -46,11 +46,11 @@
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" alt="API Testing (Postman)"/>  
 
 ## ☁️ Cloud & Deployment  
-<img src="https://cdn.simpleicons.org/vercel/000000" width="48" alt="Vercel"/>  
+<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="48" alt="Vercel"/>  
 <img src="https://cdn.simpleicons.org/railway/FFFFFF" width="48" alt="Railway.app"/>  
 <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" alt="Render"/>  
-<img src="https://cdn.simpleicons.org/aws/232F3E" width="48" alt="AWS"/>  
-<img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="48" alt="Google Cloud"/>  
+<img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="48" alt="AWS"/>  
+<img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="48" alt="Google Cloud"/> 
 
 </div>
 
