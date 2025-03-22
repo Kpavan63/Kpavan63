@@ -36,13 +36,14 @@
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" alt="Node.js"/>  
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" alt="SQL"/>  
 <img src="https://cdn.simpleicons.org/graphql/E10098" width="48" alt="GraphQL"/>  
-<img src="https://cdn.simpleicons.org/api/000000" width="48" alt="APIs"/>  
+  
 
 ## 📡 APIs & Databases  
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" alt="SQL"/>  
 <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="48" alt="Google Sheets"/>  
 <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" alt="Firebase"/>  
 <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" alt="MongoDB"/>  
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" alt="API Testing (Postman)"/>  
 
 ## ☁️ Cloud & Deployment  
 <img src="https://cdn.simpleicons.org/vercel/000000" width="48" alt="Vercel"/>  
