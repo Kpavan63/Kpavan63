@@ -96,30 +96,105 @@
   </table>
 </div>
 
-<h3 align="center">Weekly Coding Stats</h3>
+<h3 align="center">💻 Weekly Coding Activity</h3>
 <div align="center">
-  <table>
-    <tr>
-      <th>Language</th>
-      <th>Time Spent</th>
-    </tr>
-    <tr>
-      <td>JavaScript</td>
-      <td>█████████░░ 70%</td>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td>██████░░░░░ 50%</td>
-    </tr>
-    <tr>
-      <td>HTML/CSS</td>
-      <td>████░░░░░░░ 35%</td>
-    </tr>
-    <tr>
-      <td>Other</td>
-      <td>███░░░░░░░░ 25%</td>
-    </tr>
+  <table width="70%" style="margin: 20px auto; border-collapse: collapse;">
+    <thead>
+      <tr>
+        <th align="left" width="40%">Language</th>
+        <th align="left" width="45%">Time Spent</th>
+        <th align="right" width="15%">Hours</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- JavaScript -->
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        </td>
+        <td>
+          <div style="background-color: #2f80ed20; border-radius: 5px; padding: 2px;">
+            <div style="background-color: #F7DF1E; width: 70%; height: 20px; border-radius: 5px;">
+              <span style="color: #24292e; margin-left: 8px; font-weight: bold;">70%</span>
+            </div>
+          </div>
+        </td>
+        <td align="right"><code>28.0h</code></td>
+      </tr>
+      <!-- Python -->
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        </td>
+        <td>
+          <div style="background-color: #2f80ed20; border-radius: 5px; padding: 2px;">
+            <div style="background-color: #3776AB; width: 50%; height: 20px; border-radius: 5px;">
+              <span style="color: white; margin-left: 8px; font-weight: bold;">50%</span>
+            </div>
+          </div>
+        </td>
+        <td align="right"><code>20.0h</code></td>
+      </tr>
+      <!-- HTML/CSS -->
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" />
+        </td>
+        <td>
+          <div style="background-color: #2f80ed20; border-radius: 5px; padding: 2px;">
+            <div style="background-color: #E34F26; width: 35%; height: 20px; border-radius: 5px;">
+              <span style="color: white; margin-left: 8px; font-weight: bold;">35%</span>
+            </div>
+          </div>
+        </td>
+        <td align="right"><code>14.0h</code></td>
+      </tr>
+      <!-- Other -->
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Other-gray?style=for-the-badge" alt="Other" />
+        </td>
+        <td>
+          <div style="background-color: #2f80ed20; border-radius: 5px; padding: 2px;">
+            <div style="background-color: #808080; width: 25%; height: 20px; border-radius: 5px;">
+              <span style="color: white; margin-left: 8px; font-weight: bold;">25%</span>
+            </div>
+          </div>
+        </td>
+        <td align="right"><code>10.0h</code></td>
+      </tr>
+    </tbody>
   </table>
+
+  <details>
+    <summary>📊 Detailed Statistics</summary>
+    <br>
+    <div align="center">
+      <table width="70%" style="margin: 0 auto; border-collapse: collapse;">
+        <tr>
+          <td align="right"><strong>Total Coding Time:</strong></td>
+          <td align="left"><code>72.0 hours</code></td>
+        </tr>
+        <tr>
+          <td align="right"><strong>Daily Average:</strong></td>
+          <td align="left"><code>10.3 hours</code></td>
+        </tr>
+        <tr>
+          <td align="right"><strong>Most Productive Day:</strong></td>
+          <td align="left"><code>Tuesday (16.5 hours)</code></td>
+        </tr>
+        <tr>
+          <td align="right"><strong>Last Updated:</strong></td>
+          <td align="left"><code>2025-03-22 04:57:17 UTC</code></td>
+        </tr>
+      </table>
+    </div>
+  </details>
+
+  <br>
+  <sub>
+    <em>Stats generated from <strong>@Kpavan63</strong>'s coding activity | Updated every 24 hours</em>
+  </sub>
 </div>
 
 <h3 align="center">Connect With Me</h3>
