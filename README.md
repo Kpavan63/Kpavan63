@@ -22,33 +22,32 @@
 # 🛠️ Skills
 <div align="center">
 
-## 🚀 Frontend
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-javascript-library-react-redux-and-angular-logo-color-tal-revivo.png" alt="JS Libraries"/>
+## 🚀 Frontend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="JS Libraries"/>
 
-## 🖥️ Backend
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
-<img src="https://img.icons8.com/ios-filled/48/000000/api-settings.png" alt="APIs"/>
+## 🖥️ Backend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL"/>
 
-## 📡 APIs & Databases
-<img src="https://img.icons8.com/color/48/000000/api.png" alt="API"/>
-<img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL"/>
-<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-google-sheets-a-web-based-application-used-to-create-edit-and-share-spreadsheets-logo-filled-tal-revivo.png" alt="SteinHQ"/>
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-database-web-hosting-flaticons-lineal-color-flat-icons.png" alt="SheetDB"/>
+## 📡 APIs & Databases  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Database-mysql.svg" width="48" height="48" alt="SQL Database"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Forms_2020_Logo.svg" width="48" height="48" alt="SteinHQ"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Google_Sheets_2020_Logo.svg" width="48" height="48" alt="SheetDB"/>
 
-## ☁️ Cloud & Deployment
-<img src="https://img.icons8.com/color/48/000000/render.png" alt="Render"/>
-<img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-railway-app-a-hosting-platform-for-developers-cloud-shadow-tal-revivo.png" alt="Railway.app"/>
+## ☁️ Cloud & Deployment  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Cloud_computing_icon.svg" width="48" height="48" alt="Cloud"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Vercel_logo_black.svg" width="48" height="48" alt="Vercel" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Railway_logo.svg" width="48" height="48" alt="Railway.app"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Logo-cloud-render.svg" width="48" height="48" alt="Render"/>
 
 </div>
-
 
 
 ---
