@@ -10,174 +10,96 @@
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/Kpavan63" width="100px" style="border-radius: 50%; animation: spin 20s linear infinite;">
-  <p style="padding: 20px; font-size: 18px;">I'm Pavan, a passionate Web Developer with experience in building modern web applications. I love solving problems, learning new technologies, and improving my skills.</p>
+  <img src="https://avatars.githubusercontent.com/Kpavan63" width="100px" style="border-radius: 50%;">
+  <p style="padding: 20px; font-size: 16px;">
+    I'm a passionate Full Stack Developer specializing in modern web applications. With a strong foundation in both frontend and backend technologies, I focus on creating efficient, scalable solutions. I'm deeply committed to continuous learning and staying current with emerging technologies.
+  </p>
 </div>
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Technical Stack
+
 <div align="center">
 
-#### Frontend
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" style="transition: transform 0.3s;"/>
-
-#### Backend
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" style="transition: transform 0.3s;"/>
-
-#### APIs and Servers
-<img src="https://img.icons8.com/color/48/000000/api.png" alt="API" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/render.png" alt="Render" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/railway.png" alt="Railway" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" style="transition: transform 0.3s;"/>
-
-#### Cloud and DevOps
-<img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style="transition: transform 0.3s;"/>
-<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" style="transition: transform 0.3s;"/>
-
-<style>
-  img:hover {
-    transform: scale(1.2);
-  }
-
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-
-  body {
-    background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
-    animation: backgroundAnimation 10s ease infinite;
-  }
-
-  @keyframes backgroundAnimation {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-</style>
-
-</div>
-
----
-
-### 🛠️ Languages
-
-<p align="center">
-  <a href="https://github.com/Kpavan63/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpavan63&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="Kpavan63 :: Overall Top Languages">
-  </a>
+#### 🎨 Frontend Development
+<p>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
 </p>
+
+#### 💻 Backend Development
+<p>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
+<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
+</p>
+
+#### 🔧 DevOps & Cloud
+<p>
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
+<img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+</p>
+
+#### 🌐 API & Services
+<p>
+<img src="https://img.icons8.com/color/48/000000/api.png" alt="API"/>
+<img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL"/>
+<img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku"/>
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpavan63&langs_count=6&theme=github_dark&layout=compact&hide_border=true" alt="Most Used Languages" />
+</div>
+
 <p align="center">
-  <a href="https://github.com/Kpavan63/">
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kpavan63&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="Kpavan63 :: Top Languages by Repo">
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kpavan63&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="Kpavan63 :: Top Languages by Commit">
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kpavan63&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kpavan63&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kpavan63&theme=react-dark&area=true&hide_border=true" width="98%" alt="Activity Graph">
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Profile Trophy
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kpavan63&show_icons=true&theme=radical" alt="Pavan's GitHub Stats">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kpavan63&theme=radical" alt="Pavan's Streak Stats">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kpavan63&theme=darkhub&row=1&column=6&no-frame=true&no-bg=true" alt="Trophy" width="100%">
 </div>
 
 ---
 
-## 📊 Pull Requests & Commits
+### 🤝 Let's Connect
 
-<p align="center">
-    <a href="https://github.com/Kpavan63">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kpavan63&theme=react-dark&area=true&hide_border=true&custom_title=Pull%20Requests%20and%20Commits" />
-    </a>
-</p>
-
----
-
-### 📈 Contribution Graph
-<p align="center">
-    <a href="https://github.com/Kpavan63">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kpavan63&bg_color=1a1b27&color=6fbae8&line=79c0ff&point=fab795&area=true&hide_border=true" alt="Kpavan63's Activity Graph" />
-    </a>
-</p>
-
----
-
-### 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kpavan63&theme=radical&row=1&column=6" alt="Pavan's Trophies">
-</div>
-
----
-
-### 🌟 Top Companies to Hire
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google" style="transition: transform 0.3s;"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft" style="transition: transform 0.3s;"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon.png" alt="Amazon" style="transition: transform 0.3s;"/>
-  <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" style="transition: transform 0.3s;"/>
-  <img src="https://img.icons8.com/color/48/000000/apple-logo.png" alt="Apple" style="transition: transform 0.3s;"/>
-</p>
-
-<style>
-  p img:hover {
-    transform: scale(1.2);
-  }
-</style>
-
----
-
-### 📈 Repository Performance Stats (Last 28 Days)
-<div align="center">
-  <div style="position: relative; width: 100%; height: 400px; overflow: hidden;">
-    <img src="https://github-contributions-api.deno.dev/Kpavan63.svg" alt="Kpavan's Contributions in Last 28 Days" />
-    <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(255, 255, 255, 0.8); opacity: 0.8;"></div>
-  </div>
-  <h3 style="margin-top: 10px;">📊 Performance Overview</h3>
-  <p>This stats summary updates dynamically based on my activity in the repository.</p>
-</div>
-
----
-
-### 🚀 How to Use This Repo
-1. ⭐ Star and fork this repo.
-2. 📥 Clone it and explore the code.
-3. 🛠️ Feel free to submit issues or suggestions!
-
----
-
-### 🌟 Let's Connect!
 <p align="center">
   <a href="https://github.com/Kpavan63" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="30" style="vertical-align: middle;"/> 
-    GitHub
-  </a> | 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   <a href="https://www.linkedin.com/in/KpavanKalyan/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30" style="vertical-align: middle;"/> 
-    LinkedIn
-  </a> | 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://twitter.com/pavan63" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" width="30" style="vertical-align: middle;"/> 
-    Twitter
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
 ---
+
+<div align="center">
+  <b>Thank you for visiting my profile! Let's connect and build something amazing together. 🚀</b>
+</div>
