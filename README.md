@@ -106,7 +106,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Kpavan63&theme=radical&row=1&column=6" alt="Pavan's Trophies">
 </div>
 
----
 
 <h3 align="center">Current Focus</h3>
 <div align="center">
@@ -129,7 +128,7 @@
     </tr>
   </table>
 </div>
----
+
 
 <h3 align="center">💻 Weekly Coding Activity</h3>
 <div align="center">
