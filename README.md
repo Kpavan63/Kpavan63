@@ -20,37 +20,35 @@
 
 
 # 🛠️ Skills
-<div align="center">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
+<div align="center">
 
 ## 🚀 Frontend  
-<i class="fa-brands fa-html5" style="font-size: 48px; color: #E34F26;"></i>
-<i class="fa-brands fa-css3-alt" style="font-size: 48px; color: #1572B6;"></i>
-<i class="fa-brands fa-js" style="font-size: 48px; color: #F7DF1E;"></i>
-<i class="fa-brands fa-angular" style="font-size: 48px; color: #DD0031;"></i>
-<i class="fa-brands fa-react" style="font-size: 48px; color: #61DAFB;"></i>
-<i class="fa-solid fa-laptop-code" style="font-size: 48px; color: #ff9800;"></i> <!-- JS Libraries -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![JS Libraries](https://img.shields.io/badge/JS%20Libraries-FF9800?style=for-the-badge&logo=javascript&logoColor=white)  
 
 ## 🖥️ Backend  
-<i class="fa-brands fa-python" style="font-size: 48px; color: #3776AB;"></i>
-<i class="fa-brands fa-node-js" style="font-size: 48px; color: #339933;"></i>
-<i class="fa-solid fa-database" style="font-size: 48px; color: #ff9800;"></i> <!-- SQL -->
-<i class="fa-solid fa-network-wired" style="font-size: 48px; color: #6C757D;"></i> <!-- API -->
-<i class="fa-solid fa-server" style="font-size: 48px; color: #007bff;"></i> <!-- Backend -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-FF9800?style=for-the-badge&logo=mysql&logoColor=white)  
+![APIs](https://img.shields.io/badge/APIs-6C757D?style=for-the-badge&logo=swagger&logoColor=white)  
+![Backend](https://img.shields.io/badge/Backend-007BFF?style=for-the-badge&logo=server&logoColor=white)  
 
 ## 📡 APIs & Databases  
-<i class="fa-solid fa-database" style="font-size: 48px; color: #ff9800;"></i> SQL  
-<i class="fa-solid fa-table" style="font-size: 48px; color: #4CAF50;"></i> SteinHQ  
-<i class="fa-solid fa-sheet-plastic" style="font-size: 48px; color: #F7DF1E;"></i> SheetDB  
-<i class="fa-solid fa-code-branch" style="font-size: 48px; color: #6C757D;"></i> GraphQL  
+![SQL](https://img.shields.io/badge/SQL-FF9800?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SteinHQ](https://img.shields.io/badge/SteinHQ-4CAF50?style=for-the-badge&logo=google-sheets&logoColor=white)  
+![SheetDB](https://img.shields.io/badge/SheetDB-F7DF1E?style=for-the-badge&logo=google-sheets&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
 
 ## ☁️ Cloud & Deployment  
-<i class="fa-solid fa-cloud" style="font-size: 48px; color: #007bff;"></i> Cloud  
-<i class="fa-solid fa-cloud-arrow-up" style="font-size: 48px; color: #4caf50;"></i> Deployment  
-<i class="fa-solid fa-rocket" style="font-size: 48px; color: #E34F26;"></i> Vercel  
-<i class="fa-solid fa-train" style="font-size: 48px; color: #339933;"></i> Railway.app  
-<i class="fa-solid fa-server" style="font-size: 48px; color: #6C757D;"></i> Render  
+![Cloud](https://img.shields.io/badge/Cloud-007BFF?style=for-the-badge&logo=cloudflare&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![Railway.app](https://img.shields.io/badge/Railway.app-339933?style=for-the-badge&logo=railway&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-6C757D?style=for-the-badge&logo=render&logoColor=white)  
 
 </div>
 
