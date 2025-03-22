@@ -24,31 +24,35 @@
 <div align="center">
 
 ## 🚀 Frontend  
-<img src="https://cdn.simpleicons.org/html5/EF652A" width="48" alt="HTML5"/>
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="48" alt="CSS3"/>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" alt="JavaScript"/>
-<img src="https://cdn.simpleicons.org/angular/DD0031" width="48" alt="Angular"/>
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="48" alt="React"/>
-<img src="https://cdn.simpleicons.org/npm/CB3837" width="48" alt="JS Libraries"/>
+<img src="https://cdn.simpleicons.org/html5/EF652A" width="48" alt="HTML5"/>  
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="48" alt="CSS3"/>  
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" alt="JavaScript"/>  
+<img src="https://cdn.simpleicons.org/angular/DD0031" width="48" alt="Angular"/>  
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="48" alt="React"/>  
+<img src="https://cdn.simpleicons.org/npm/CB3837" width="48" alt="JS Libraries"/>  
 
 ## 🖥️ Backend  
-<img src="https://cdn.simpleicons.org/python/3776AB" width="48" alt="Python"/>
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" alt="Node.js"/>
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" alt="SQL"/>
-<img src="https://cdn.simpleicons.org/graphql/E10098" width="48" alt="GraphQL"/>
-<img src="https://cdn.simpleicons.org/api/000000" width="48" alt="APIs"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="48" alt="Python"/>  
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" alt="Node.js"/>  
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" alt="SQL"/>  
+<img src="https://cdn.simpleicons.org/graphql/E10098" width="48" alt="GraphQL"/>  
+<img src="https://cdn.simpleicons.org/api/000000" width="48" alt="APIs"/>  
 
 ## 📡 APIs & Databases  
-<img src="https://cdn.simpleicons.org/sqlite/003B57" width="48" alt="SQL Database"/>
-<img src="https://cdn.simpleicons.org/steinhq/FF6F00" width="48" alt="SteinHQ"/>
-<img src="https://cdn.simpleicons.org/googlesheets/34A853" width="48" alt="SheetDB"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" alt="SQL"/>  
+<img src="https://cdn.simpleicons.org/googlesheets/34A853" width="48" alt="Google Sheets"/>  
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" alt="Firebase"/>  
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" alt="MongoDB"/>  
 
 ## ☁️ Cloud & Deployment  
-<img src="https://cdn.simpleicons.org/vercel/000000" width="48" alt="Vercel"/>
-<img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" alt="Railway.app"/>
-<img src="https://cdn.simpleicons.org/render/46E3B7" width="48" alt="Render"/>
+<img src="https://cdn.simpleicons.org/vercel/000000" width="48" alt="Vercel"/>  
+<img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" alt="Railway.app"/>  
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="48" alt="Render"/>  
+<img src="https://cdn.simpleicons.org/aws/232F3E" width="48" alt="AWS"/>  
+<img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="48" alt="Google Cloud"/>  
 
 </div>
+
 
 
 
