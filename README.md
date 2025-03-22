@@ -24,34 +24,31 @@
 <div align="center">
 
 ## 🚀 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![JS Libraries](https://img.shields.io/badge/JS%20Libraries-FF9800?style=for-the-badge&logo=javascript&logoColor=white)  
+<img src="https://cdn.simpleicons.org/html5/EF652A" width="48" alt="HTML5"/>
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="48" alt="CSS3"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" alt="JavaScript"/>
+<img src="https://cdn.simpleicons.org/angular/DD0031" width="48" alt="Angular"/>
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="48" alt="React"/>
+<img src="https://cdn.simpleicons.org/npm/CB3837" width="48" alt="JS Libraries"/>
 
 ## 🖥️ Backend  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-FF9800?style=for-the-badge&logo=mysql&logoColor=white)  
-![APIs](https://img.shields.io/badge/APIs-6C757D?style=for-the-badge&logo=swagger&logoColor=white)  
-![Backend](https://img.shields.io/badge/Backend-007BFF?style=for-the-badge&logo=server&logoColor=white)  
+<img src="https://cdn.simpleicons.org/python/3776AB" width="48" alt="Python"/>
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" alt="Node.js"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" alt="SQL"/>
+<img src="https://cdn.simpleicons.org/graphql/E10098" width="48" alt="GraphQL"/>
+<img src="https://cdn.simpleicons.org/api/000000" width="48" alt="APIs"/>
 
 ## 📡 APIs & Databases  
-![SQL](https://img.shields.io/badge/SQL-FF9800?style=for-the-badge&logo=postgresql&logoColor=white)  
-![SteinHQ](https://img.shields.io/badge/SteinHQ-4CAF50?style=for-the-badge&logo=google-sheets&logoColor=white)  
-![SheetDB](https://img.shields.io/badge/SheetDB-F7DF1E?style=for-the-badge&logo=google-sheets&logoColor=white)  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+<img src="https://cdn.simpleicons.org/sqlite/003B57" width="48" alt="SQL Database"/>
+<img src="https://cdn.simpleicons.org/steinhq/FF6F00" width="48" alt="SteinHQ"/>
+<img src="https://cdn.simpleicons.org/googlesheets/34A853" width="48" alt="SheetDB"/>
 
 ## ☁️ Cloud & Deployment  
-![Cloud](https://img.shields.io/badge/Cloud-007BFF?style=for-the-badge&logo=cloudflare&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![Railway.app](https://img.shields.io/badge/Railway.app-339933?style=for-the-badge&logo=railway&logoColor=white)  
-![Render](https://img.shields.io/badge/Render-6C757D?style=for-the-badge&logo=render&logoColor=white)  
+<img src="https://cdn.simpleicons.org/vercel/000000" width="48" alt="Vercel"/>
+<img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" alt="Railway.app"/>
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="48" alt="Render"/>
 
 </div>
-
 
 
 
