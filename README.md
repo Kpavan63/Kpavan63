@@ -18,7 +18,6 @@
 
 ---
 
-
 ### 🛠️ Skills
 <div align="center">
 
@@ -86,7 +85,6 @@
 
 ---
 
-
 ### 📈 Contribution Graph
 <p align="center">
     <a href="https://github.com/Kpavan63">
@@ -136,7 +134,6 @@
 </div>
 
 ---
-
 
 ### 📈 Repository Performance Stats (Last 28 Days)
 <div align="center">
