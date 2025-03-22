@@ -12,38 +12,63 @@
 
 ### About Me
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/Kpavan63" width="100px" style="border-radius: 10px;">
+  <img src="https://avatars.githubusercontent.com/Kpavan63" width="100px" style="border-radius: 50%; animation: spin 20s linear infinite;">
   <p style="padding: 20px; font-size: 18px;">I'm Pavan, a passionate Web Developer with experience in building modern web applications. I love solving problems, learning new technologies, and improving my skills.</p>
 </div>
 
 ---
 
-
 ### 🛠️ Skills
 <div align="center">
 
 #### Frontend
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" style="transition: transform 0.3s;"/>
 
 #### Backend
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" style="transition: transform 0.3s;"/>
 
 #### APIs and Servers
-<img src="https://img.icons8.com/color/48/000000/api.png" alt="API"/>
-<img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL"/>
-<img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku"/>
-<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+<img src="https://img.icons8.com/color/48/000000/api.png" alt="API" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/render.png" alt="Render" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/railway.png" alt="Railway" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" style="transition: transform 0.3s;"/>
 
 #### Cloud and DevOps
-<img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud"/>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
+<img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style="transition: transform 0.3s;"/>
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" style="transition: transform 0.3s;"/>
+
+<style>
+  img:hover {
+    transform: scale(1.2);
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  body {
+    background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+    animation: backgroundAnimation 10s ease infinite;
+  }
+
+  @keyframes backgroundAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
 
 </div>
 
@@ -63,6 +88,7 @@
   </a>
 </p>
 
+---
 
 ### 📊 GitHub Stats
 
@@ -86,7 +112,6 @@
 
 ---
 
-
 ### 📈 Contribution Graph
 <p align="center">
     <a href="https://github.com/Kpavan63">
@@ -103,40 +128,22 @@
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Top Companies to Hire
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google" style="transition: transform 0.3s;"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft" style="transition: transform 0.3s;"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon.png" alt="Amazon" style="transition: transform 0.3s;"/>
+  <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" style="transition: transform 0.3s;"/>
+  <img src="https://img.icons8.com/color/48/000000/apple-logo.png" alt="Apple" style="transition: transform 0.3s;"/>
+</p>
 
-<div align="center">
-  <p>Check out my top starred projects:</p>
-
-  <table>
-    <tr>
-      <td>
-        <div style="border: 1px solid #ddd; border-radius: 10px; margin: 10px; padding: 10px; width: 250px; text-align: center;">
-          <h4><a href="https://github.com/Kpavan63/your-top-starred-repo-1" target="_blank">Project One</a></h4>
-          <p>A brief description of Project One.</p>
-          <img src="https://img.shields.io/github/stars/Kpavan63/your-top-starred-repo-1?style=social" alt="Stars" />
-        </div>
-      </td>
-      <td>
-        <div style="border: 1px solid #ddd; border-radius: 10px; margin: 10px; padding: 10px; width: 250px; text-align: center;">
-          <h4><a href="https://github.com/Kpavan63/your-top-starred-repo-2" target="_blank">Project Two</a></h4>
-          <p>A brief description of Project Two.</p>
-          <img src="https://img.shields.io/github/stars/Kpavan63/your-top-starred-repo-2?style=social" alt="Stars" />
-        </div>
-      </td>
-      <td>
-        <div style="border: 1px solid #ddd; border-radius: 10px; margin: 10px; padding: 10px; width: 250px; text-align: center;">
-          <h4><a href="https://github.com/Kpavan63/your-top-starred-repo-3" target="_blank">Project Three</a></h4>
-          <p>A brief description of Project Three.</p>
-          <img src="https://img.shields.io/github/stars/Kpavan63/your-top-starred-repo-3?style=social" alt="Stars" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<style>
+  p img:hover {
+    transform: scale(1.2);
+  }
+</style>
 
 ---
-
 
 ### 📈 Repository Performance Stats (Last 28 Days)
 <div align="center">
